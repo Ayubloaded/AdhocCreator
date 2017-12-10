@@ -1,2 +1,2 @@
 # AdhocCreator
-a Wi-Fi Hotspots Adhoc connection for Windows
+A Wi-Fi Hotspots Adhoc Creator for Windows
